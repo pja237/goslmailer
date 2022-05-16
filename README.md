@@ -1,3 +1,8 @@
+# NOTE: Development of this project has been moved to [CLIP-HPC org.](https://github.com/CLIP-HPC/goslmailer)
+
+This is now an archive. For new developments, go [here](https://github.com/CLIP-HPC/goslmailer)
+
+
 # goslmailer
 
 ## Drop-in notification delivery solution for slurm that can do...
